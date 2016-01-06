@@ -7,7 +7,7 @@ You will need to ensure a number of things are installed for the script to funct
 
 The following commands may help ensure your environment is ready to run the script.
 
-# pip install oletools
-# apt-get install swftools
-# apt-get install python-magic
-# pip install yara
+pip install oletools
+apt-get install swftools
+apt-get install python-magic
+pip install yara
