@@ -2,7 +2,6 @@
 
 # Currently the script utilizes "swftools", "python-magic", "yara", and "oletools". Please ensure that these programs and/or modules are installed prior to execution.
 # In Windows, you may install yara, oletools and python-magic using PIP. You will also need to have swftools installed within windows, and their path added to your Windows environment execution path.
-# pip install yara
 # pip install oletools
 # pip install python-magic
 
