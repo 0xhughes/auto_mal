@@ -14,3 +14,5 @@ apt-get install swftools
 apt-get install python-magic
 
 pip install yara
+
+For the "headless" Windows version, refer to the win_readme.md directions file for dependency preperation notes.
