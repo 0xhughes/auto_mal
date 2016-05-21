@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# This script created by Century College for the automated triage and/or analysis of potential malware samples. 2015-2016.
+# This script created by Shawn Hughes for the automated triage and/or analysis of potential malware samples. 2015-2016.
 
 # Currently the script utilizes "swftools", "python-magic", "yara", and "oletools". Please ensure that these programs and/or modules are installed prior to execution.
 # pip install oletools
