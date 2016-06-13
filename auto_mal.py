@@ -44,7 +44,6 @@ def _hardcode_setup():
             sys.exit('-- : --  Exited on incorrect paths. Run again to re-enter.')
         if dir_choice != 'No' and dir_choice != 'Yes':
             print '-- : --  Invalid choice, try again. Yes or No.'
-            pass
 
 def _get_hc_dirs():
     try:
